@@ -12,7 +12,8 @@ description: Panduan Transaksi Menggunakan metode IBC
 
 * **Nama** = **Nama Penerima** / **Sesuai di Rekening**, 
 * **Alamat** = **Sesuai Alamat Penerima**, 
-* **Kode Bank = 110 Untuk Bank bjb, No Rek Bank = di isi hanya angka / no rek bank,** 
+* **Kode Bank = 110 Untuk Bank bjb,** 
+* **No Rek Bank = di isi hanya angka / no rek bank,** 
 * **Nama Bank = di isi nama bank ,** 
 * **NPWP = di isi no NPWP penerima / NPWP Desa**
 
