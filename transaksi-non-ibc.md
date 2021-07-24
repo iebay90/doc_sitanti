@@ -1,2 +1,2 @@
-# Transaksi Non IBC
+# Transaksi Dengan Metode Non IBC
 

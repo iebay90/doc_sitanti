@@ -1,8 +1,8 @@
 ---
-description: Panduan Transaksi Menggunakan metode IBC
+description: Panduan Transaksi Menggunakan Metode IBC / Internet Banking Corporate Bank bjb
 ---
 
-# Transaksi dengan Metode IBC
+# Transaksi Dengan Metode IBC
 
 ## Catatan Khusus di Aplikasi Siskeudes
 
@@ -27,11 +27,113 @@ description: Panduan Transaksi Menggunakan metode IBC
 
 ## Step by Step Pada Aplikasi Sitanti
 
-    1. Pilih dan Klik **Menu IBC** Kemudian pilih **Verifikasi IBC**
+### 1. Pilih dan Klik **Menu IBC** Kemudian pilih **Verifikasi IBC**
 
 ![Lokasi Menu Verifikasi IBC](.gitbook/assets/screen-shot-2021-07-24-at-14.03.44.png)
 
-    2. Pilih SPP yang Akan di Verifikasi Kemudian Pilih dan Klik Tombol **Verifikasi**  ****
+![Tampilan Halaman Verifikasi](.gitbook/assets/screen-shot-2021-07-24-at-19.13.00.png)
+
+* **Penjelasan** 
+  * **No** = No Urut
+  * **No SPP** = No SPP Sesuai Register di Aplikasi Siskeudes
+  * **Uraian** = Uraian sebagaimana di input di Aplikasi Siskeudes
+  * **Nilai \(Rp\)** = Nilai Total Transaksi SPP
+  * **Potongan -&gt; Ada** = Terdapat Potongan Pajak
+  * **Potongan -&gt; Tidak ada** = Tidak terdapat Potongan Pajak
+  * **Aksi Tombol Verifikasi** = Tombol Untuk Verifikasi SPP
+
+### 2. Pilih SPP yang Akan di Verifikasi Kemudian Pilih dan Klik Tombol **Verifikasi**  ****
+
+![Lokasi Tombol Verifikasi](.gitbook/assets/screen-shot-2021-07-24-at-19.13.00%20%281%29.png)
+
+![Tampilan Halaman Setelah Klik Tombol Verifikasi](.gitbook/assets/screen-shot-2021-07-24-at-19.42.11.png)
+
+* **Penjelasan Tab  SPP** 
+
+  * **Nomor SPP** = No SPP Sesuai Register di Aplikasi Siskeudes
+  * **Tanggal SPP** = Tanggal Pembuatan SPP di Aplikasi Siskeudes
+  * **Uraian** = Uraian yang di input di Aplikasi Siskeudes
+  * **Nilai \(Rp\)** = Nilai Total Transaksi SPP
+
+  \*\*\*\*
+
+* **Dokumen Lampiran** 
+
+  * **Nomor Rekening** = Nomor Rekening Kas Desa
+  * **Pemilik** = Nama Rekening
+  * **Status** = Status Rekening
+  * **Saldo** = Saldo \(Realtime\) di Rekening Kas Desa
+
+  \*\*\*\*
+
+* **Dokumen Lampiran** 
+  * **Berkas SPTJB** = Untuk Mengupload File SPTJB yang di prinout dari Aplikasi Siskeudes dan Sudah di Tandatangani **\(File Format PDF\)**
+  * **Berkas SPP2** = Untuk Mengupload File SPP2 yang di printout dari Aplikasi Siskeudes dan Sudah di Tandatangani dan di Cap Basah **\(File Format PDF\)**
+
+### 3. Pilih Menu Tab Rincian Pengeluaran & Potongan
+
+![Tampilan Halaman Menu Verifikasi - Tab Rincian Pengeluaran &amp; Potongan](.gitbook/assets/screen-shot-2021-07-24-at-19.48.23.png)
+
+### 4. Pilih dan Klik Detail
+
+![Tampilan Halaman Setelah Klik Tombol Detail - Tanpa Potongan Pajak](.gitbook/assets/screen-shot-2021-07-24-at-19.50.25.png)
+
+![Tampilan Halaman Setelah Pilih dan Klik Tombol Detail - Dengan Potongan Pajak](.gitbook/assets/screen-shot-2021-07-24-at-19.54.24.png)
+
+* **Penjelasan Kwitansi :**  
+
+  * **Nomor Bukti** = No Kwitansi Sesuai Register di Aplikasi Siskeudes
+  * **Tanggal Bukti** = Tanggal Kwitansi di Aplikasi Siskeudes
+  * **Uraian** = Uraian Kwitansi sebagaimana di input di Aplikasi Siskeudes
+  * **Nilai \(Rp\)** = Nilai Total Transaksi Pada Kwitansi **\(Netto / setelah di kurangi pajak apabila ada potongan pajak\)**
+
+  \*\*\*\*
+
+* **Penjelasan Data Penerima \(Siskeudes\) :**  
+
+  * **Nama** = Nama Penerima yang di input di Aplikasi Siskeudes
+  * **Alamat** = Alamat Penerima yang di input Aplikasi Siskeudes
+  * **No Rek** = Nomor Rekening yang di input di Aplikasi Siskeudes
+  * **NPWP** = Nomor NPWP yang di Input di Aplikasi Siskeudes
+  * **Telepon** = Silahkan Isi nomor Telepon Penerima
+
+* **Penjelasan Data Penerima \(RESPONSE BANK\) :**  
+
+  * **Pemilik Rek** = Nama Pemilik Rekening Sebagaimana terdaftar di Bank
+  * **No Rek** = Nomor Rekening 
+  * **Status** = Status Keaktifan Rekening
+  * **Kewarganegaraan** = Silahkan Pilih Kewarganegaraan Pemilik Rekening Penerima
+  * **Kategori Penerima** = Silahkan Pilih Kategori Pemilik Rekening Penerima
+
+* **Potongan :**  
+
+  * **Kode Potongan** = Kode Potongan Pajak di Aplikasi Siskeudes
+  * **Nama Potongan** = Jenis Potongan Pajak
+  * **Nilai** = Nilai Potongan Pajak
+  * **ID Billing** = Silahkan Input ID BIling Pajak **\(Tanpa Spasi\)**
+  * **Choose File** = Silahkan Pilih File Billing Pajak **\(Format PDF\)**
+
+  \*\*\*\*
+
+* **Dokumen Lampiran** 
+  * **Berkas SPTJB** = Untuk Mengupload File SPTJB yang di prinout dari Aplikasi Siskeudes dan Sudah di Tandatangani **\(File Format PDF\)**
+  * **Berkas SPP2** = Untuk Mengupload File SPP2 yang di printout dari Aplikasi Siskeudes dan Sudah di Tandatangani dan di Cap Basah **\(File Format PDF\)**
+
+### 5. Setelah Data Sesuai dan Lengkap Silahkan Pilih Simpan Untuk Melanjutkan Verifikasi dan Pilih Batal Apabila Ingin Membatalkan Verifikasi
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 3.   ****
 
 ## Step By Step Pada Aplikasi IBC
 
