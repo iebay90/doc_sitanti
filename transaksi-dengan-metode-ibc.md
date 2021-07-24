@@ -27,7 +27,7 @@ description: Panduan Transaksi Menggunakan Metode IBC / Internet Banking Corpora
 
 ## Step by Step Pada Aplikasi Sitanti
 
-### 1. Pilih dan Klik **Menu IBC** Kemudian pilih **Verifikasi IBC**
+### 1. Pilih dan Klik **Menu IBC** Kemudian Pilih dan Klik **Verifikasi IBC**
 
 ![Lokasi Menu Verifikasi IBC](.gitbook/assets/screen-shot-2021-07-24-at-14.03.44.png)
 
@@ -119,23 +119,41 @@ description: Panduan Transaksi Menggunakan Metode IBC / Internet Banking Corpora
   * **Berkas SPTJB** = Untuk Mengupload File SPTJB yang di prinout dari Aplikasi Siskeudes dan Sudah di Tandatangani **\(File Format PDF\)**
   * **Berkas SPP2** = Untuk Mengupload File SPP2 yang di printout dari Aplikasi Siskeudes dan Sudah di Tandatangani dan di Cap Basah **\(File Format PDF\)**
 
-### 5. Setelah Data Sesuai dan Lengkap Silahkan Pilih Simpan Untuk Melanjutkan Verifikasi dan Pilih Batal Apabila Ingin Membatalkan Verifikasi
+### 5. Setelah Data Sesuai dan Lengkap Silahkan Pilih Tombol Verifikasi Untuk Melanjutkan atau Pilih Tombol Batal Apabila Ingin Membatalkan Verifikasi
+
+![](.gitbook/assets/screen-shot-2021-07-24-at-20.25.51.png)
 
 ### 6. Notifikasi Data Berhasil Di Simpan
 
+![Tampilan Notifikasi Data Berhasil di Verifikasi](.gitbook/assets/screen-shot-2021-07-24-at-20.26.40.png)
 
+### 7. Pilih dan Klik Menu Verifikasi IBC kemudian Pilih dan Klik Menu Antrian IBC 
 
+![Tampilan Menu IBC - Antrian IBC](.gitbook/assets/screen-shot-2021-07-24-at-20.37.47.png)
 
+![Tampilan Halaman Setelah Pilih dan Klik Menu IBC - Antrian IBC](.gitbook/assets/screen-shot-2021-07-24-at-20.41.22%20%281%29.png)
 
+* **Penjelasan Menu Tab** 
 
+  * **Kwitansi Proses** = Daftar Antrian Transaksi /  **KD RELEASE** yang **BELUM CAIR** / **Baru di Verifikasi**
+  * **Kwitansi Berhasil DiProses** = Daftar Transaksi / **KD RELEASE** yang telah **CAIR / Berhasil di Proses di IBC**  
+  * **Kwitansi Gagal Proses =** Daftar Transaksi / **KD RELEASE** yang **GAGAL** / di **TOLAK di IBC.**
 
+  \*\*\*\*
 
+* **Penjelasan Tabel Antrian** 
+  * **Nomor** = Nomor Urut 
+  * **KD RELEASE** = Kode Release yang nantinya di input kedalam Aplikasi IBC
+  * **No SPP =** Nomor Register SPP di Aplikasi Siskeudes
+  * **No Kwitansi** = Nomor Register Kwitansi di Aplikasi Siskeudes
+  * **Uraian** = Uraian yang di input di Aplikasi Siskeudes
+  * **Nilai** = Nilai Transaksi / Nilai Netto \(Setelah di Kurangi Pajak\)
+  * **Potongan** = Potongan Pajak
+  * **Tgl Verifikasi** = Tanggal pada Saat Verifikasi di Aplikasi Sitanti
 
+### 8. Silahkan Salin KD RELEASE di sitanti untuk di input di Aplikasi IBC
 
-
-
-
-### 3.   ****
+![Tampilan Kode Release Transaksi](.gitbook/assets/screen-shot-2021-07-24-at-20.41.22.png)
 
 ## Step By Step Pada Aplikasi IBC
 
