@@ -7,4 +7,5 @@
 * [Transaksi Non IBC](transaksi-non-ibc.md)
 * [Pembayaran Pajak](pembayaran-pajak.md)
 * [Pembatalan Transaksi](pembatalan-transaksi.md)
+* [Perubahan Password](perubahan-password.md)
 

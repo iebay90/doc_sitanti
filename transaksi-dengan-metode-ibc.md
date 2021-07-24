@@ -28,7 +28,7 @@ description: Panduan Transaksi Menggunakan metode IBC
 
     1. Pilih dan Klik **Menu IBC** Kemudian pilih **Verifikasi IBC**
 
-![Lokasi Menu Verifikasi IBC](.gitbook/assets/screen-shot-2021-07-24-at-13.57.27.png)
+![Lokasi Menu Verifikasi IBC](.gitbook/assets/screen-shot-2021-07-24-at-14.03.44.png)
 
     2. Pilih SPP yang Akan di Verifikasi Kemudian Pilih dan Klik Tombol **Verifikasi**  ****
 
