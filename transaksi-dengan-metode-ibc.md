@@ -121,6 +121,8 @@ description: Panduan Transaksi Menggunakan Metode IBC / Internet Banking Corpora
 
 ### 5. Setelah Data Sesuai dan Lengkap Silahkan Pilih Simpan Untuk Melanjutkan Verifikasi dan Pilih Batal Apabila Ingin Membatalkan Verifikasi
 
+### 6. Notifikasi Data Berhasil Di Simpan
+
 
 
 
